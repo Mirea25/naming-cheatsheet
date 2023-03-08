@@ -6,10 +6,10 @@
 
 # Naming cheatsheet
 
-- [English language](#english-language)
-- [Naming convention](#naming-convention)
-- [S-I-D](#s-i-d)
-- [Avoid contractions](#avoid-contractions)
+- [English language](#english-language
+- [Nming convention](#naming-convention)
+- [S-I-D](s-i-d)
+- [Avoid contractions](#avo-contractions)
 - [Avoid context duplication](#avoid-context-duplication)
 - [Reflect the expectedt](#reflect-the-expected-result)
 - [Naming functions](#naming-functions)

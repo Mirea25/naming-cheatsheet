@@ -7,8 +7,8 @@
 # Naming cheatsheet
 
 - [English language](#english-language
-- [Naming convention](#naming-convention)
-- [S-I-D](#s-i-d)
+- [Nming convention](#naming-convention)
+- [S-I-D](s-i-d)
 - [Avoid contractions](#avoid-contractions)
 - [Avoid context duplication](#avoid-context-duplication)
 - [Reflect the expected result](#reflect-the-expected-result)

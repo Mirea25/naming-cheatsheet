@@ -4,8 +4,7 @@
 </p>
 
 # Naming cheatsheet
-
-- [English language](#english-language
+English language](#english-language
 - [Nming convention](#naming-convention)
 - [S-I-D](s-i-d)
 - [Avoid contractions](#avo-contractions)
